@@ -1,3 +1,4 @@
+# Bitget跨平台跟单/带单助手
 #### 技术支持：懒人交易策略研发团队
 #### 币安带单: 懒人交易
 #### twitter: @lazyer_trading
@@ -10,8 +11,8 @@
 ![avatar](img/img2.png)
 
 ## 2.软件下载
-#### windows:
-#### linux:
+#### windows:https://github.com/lazyer-trading/bitget_copytrading_assistant/releases/download/v1.0/win_v1.0.zip
+#### linux:https://github.com/lazyer-trading/bitget_copytrading_assistant/releases/download/v1.0/linux_v1.0.zip
 
 ## 3.获取服务
 加入Bitget节点计划，获取高额返佣，注册链接：https://partner.bitget.fit/bg/1KPPQ8
@@ -20,7 +21,8 @@
 #### VIP-3: 定制专属服务（200u/月，2000u/年），可获取跨平台带单服务（赚取带单奖励，支持Bitget/Binance/OKX平台带单）
 
 ## 4.软件使用
-### 4.1 设置配置
+### 4.1 配置
+修改setting.yaml文件
 ![avatar](img/img3.png)
 ### 4.2 软件运行
 ![avatar](img/img4.png)

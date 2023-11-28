@@ -8,6 +8,7 @@
 ![avatar](img/img1.png)
 
 ## 1.服务介绍
+24小时追踪优质的带单信号，同步到各平台合约账户进行做单
 ![avatar](img/img2.png)
 
 ## 2.软件下载
@@ -22,8 +23,15 @@
 
 ## 4.软件使用
 ### 4.1 配置
-修改setting.yaml文件
+修改setting.yaml文件, 参考文件里标注，最好用sublime/vscode打开，观感更好
+
 ![avatar](img/img3.png)
-### 4.2 软件运行
+
+### 4.2 选择交易员
+在traders.txt写入或删除你的交易员，不用停止软件，一行填写一位，sim是虚拟交易员不用删掉
+
 ![avatar](img/img4.png)
+
+### 4.3 软件运行
+![avatar](img/img5.png)
 ## 5.加入我们

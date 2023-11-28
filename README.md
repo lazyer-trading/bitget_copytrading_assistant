@@ -11,8 +11,8 @@
 ![avatar](img/img2.png)
 
 ## 2.软件下载
-#### windows:https://github.com/lazyer-trading/bitget_copytrading_assistant/releases/download/v1.0/win_v1.0.zip
-#### linux:https://github.com/lazyer-trading/bitget_copytrading_assistant/releases/download/v1.0/linux_v1.0.zip
+目前支持windows版本和linux版本：
+软件地址： https://github.com/lazyer-trading/bitget_copytrading_assistant/releases
 
 ## 3.获取服务
 加入Bitget节点计划，获取高额返佣，注册链接：https://partner.bitget.fit/bg/1KPPQ8

@@ -4,7 +4,7 @@
 #### twitter: @lazyer_trading
 #### telegram: https://t.me/bn_ct_track
 #### email: lazyer.trading@gmail.com
-#### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返还50%交易手续费
+#### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返佣
 ![avatar](img/img1.png)
 #### 建议使用linux云服务器后台长期运行，轻量级机器租用（5u/月）可以参考腾讯云：https://www.tencentcloud.com/products/lighthouse?from_qcintl=122020102
 

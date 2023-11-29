@@ -6,7 +6,7 @@
 #### email: lazyer.trading@gmail.com
 #### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返佣
 #### 建议使用linux云服务器后台长期运行，轻量级机器租用（5u/月）可以参考腾讯云（不要购买大陆和美国区域，访问不了币安！）：https://cloud.tencent.com/product/lighthouse
-
+### **github帮忙star后可联系我们开通一个月测试账号**
 ![avatar](img/img1.png)
 
 ## 1.服务介绍

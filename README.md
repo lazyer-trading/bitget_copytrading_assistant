@@ -6,6 +6,7 @@
 #### email: lazyer.trading@gmail.com
 #### 欢迎加入Bitget节点计划：https://partner.bitget.fit/bg/1KPPQ8 注册交易返还50%交易手续费
 ![avatar](img/img1.png)
+#### 建议使用linux云服务器后台长期运行，轻量级机器租用（5u/月）可以参考腾讯云：https://www.tencentcloud.com/products/lighthouse?from_qcintl=122020102
 
 ## 1.服务介绍
 24小时追踪优质的带单信号，同步到各平台合约账户进行做单
